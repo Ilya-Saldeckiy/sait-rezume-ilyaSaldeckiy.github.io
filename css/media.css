@@ -1,0 +1,22 @@
+@media(max-width:1250px){
+    .container{
+        width: 1000px;
+    }
+
+    .abbout-info{
+        width: 100%;
+    }
+
+    .abbout-info-text{
+        font-size: 25px;
+    }
+
+    .adducation-tex{
+        font-size: 20px;
+        line-height: 28px;
+    }
+}
+
+@media(max-width:758px){
+    
+}
