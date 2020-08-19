@@ -109,6 +109,7 @@ a{
 
 .projects-list{
     font-size: 22px;
+    padding-left: 20px;
 }
 
 .projects-list-item:not(:last-child){
